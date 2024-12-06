@@ -1,0 +1,16 @@
+.navbar-style{
+    padding: 1rem;
+    background: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+
+}
+.button-navbar{
+    background: red;
+    color: white;
+    border: none;
+    padding: 0.5rem;
+    cursor: pointer;
+
+}
